@@ -3,7 +3,7 @@
 Some time after learning about Design Patterns through the "Gang of Four" book,
 I bought some books by architect Christopher Alexander, upon whose ideas these
 "patterns" were based.  From these -- _The Timeless Way of Building_ and _A
-Pattern Lanugage_ -- I learned several things which put these patterns in a
+Pattern Language_ -- I learned several things which put these patterns in a
 larger and more useful context.  Recently I stumbled on a link to his essay
 [_A City is Not a Tree_](https://www.patternlanguage.com/archive/cityisnotatree.html)
 was inspired to look into more of his works to see whether they might also apply
@@ -18,13 +18,13 @@ would be at least as valuable an area to investigate.
 I expect the format and content of this to start off unstructured and grow
 gradually as I find my way round these ideas.
 
+
 = Overview
 
 == My Reading of the Sources
 
-
 From my previous reading, and the inroads I've made into my recent purchases, my
-understanding is that Christopher Alexander -- writing around 1950-1980 --
+understanding is that Christopher Alexander -- writing around 1960-1980 --
 believes that
 
 * the built environment can be better or worse for people, depending on how the
@@ -47,7 +47,90 @@ construct it from scratch (as opposed to making small improvements on existing
 * that explaining these patterns should make it easier for people, expert or
 not, to construct new environments and improve existing ones towards better
 embodying them -- that is, he wants to offer not only declarative or
-denotational descriptions, but also operational ones.
+denotational descriptions, but also operational ones: processes people can use.
+
+== Timelines    
+
+I've written about Alexander's writings in more-or-less the order I read them.
+He published them in a different order:
+
+* 1964: _Notes on the Synthesis of Form_
+* 1965: _A City is Not a Tree_
+* 1977: _A Pattern Language_
+* 1979: _The Timeless Way of Building_
+* 1980: _The Phenomenon of Life_
+* ???: _The Process of Creating Life_
+
+
+= Random Other References
+
+== TRIZ
+
+TRIZ is an innovation and problem-solving "toolkit" which for me relates to
+Alexander's work in two ways.
+
+* It is based on generalising from successful practice.
+
+* Some of its main tools are about ways to resolve specific conflicts.
+
+It does talk about analysing a specific system to find conflicts in the system
+but doesn't present them as a _hierarchy_, DAG, or semilattice, as in _A
+Pattern Language_.
+
+It also talks about simplifying systems (trimming) by finding away to remove
+some part or effect in a system by re-using other parts or effects in that
+system or its environment.  This could be seen as a step-by-step or
+"refactoring" way to get to a system in which centres have more meaningful
+connections.  The aim in this approach is more about practicality and
+efficiency than about beauty, but there's an overlap between beauty and
+parsimony.
+
+
+== Geometry from Entanglement
+
+New Scientist, 2019-09-11: _What is space-time? The true origins of the fabric of reality_
+https://www.newscientist.com/article/mg24332470-500-what-is-space-time-the-true-origins-of-the-fabric-of-reality/
+
+This article discusses research (by Sean Carroll et al. at the California
+Institute of Technology) shows that, at least in simple cases, the more
+entangled things are at the quantum level, the closer they are.  That is, you
+can derive the property of geometry for space-time purely from abstract notions
+of degrees of freedom (reduced by entanglement).
+
+"Entropy, a measure of disorder, is directly related to entanglement: the more
+entangled a region is with the rest of the world, the more entropy it contains.
+...  Gravity, it appears, can arise from entanglement, rather than directly
+from mass and energy.  ... Gravity, in other words, can emerge directly from
+the quantum essence of reality, without quantising any assumed classical
+stuff."
+
+This feels analogous to several ideas.
+
+* The "meaningful overlapping sets" in _The City is Not a Tree_.
+
+* The idea in _The Nature of Order_ that centres are richer the more
+relationship they have to other centres.
+
+* Ideas I think I recall in _Notes on the Synthesis of Form_, _A Pattern
+Language_, and/or _The Timeless Way of Building_, that patterns and the systems
+derived from them are more effective, the more conflicts are simultaneously
+resolved by a particular part of the construction.  (Although, thinking about
+software, I wonder if greater overlap of effect like that would make that part
+more difficult to change -- i.e., without then leaving some requirements newly
+unresolved again.)
+
+== Degrees of Life
+
+This was a very short article (a few paragraphs) in the front section of some
+issue of New Scientist, but I can't find it now.  It was about some researcher
+who was interested in mathematical correspondences which vary in degree across
+various systems, of which those at one extreme would be regarded as alive.
+Somewhere in the middle are things like vortices in flowing water, which
+maintain some sort of structure despite incoming interfering energy, and even
+"reproduce" in some sense.
+
+I wish I could find the researcher's name so I could look for further links to
+the ideas in _The Nature of Order_.
 
 
 = A Pattern Language
@@ -56,10 +139,18 @@ denotational descriptions, but also operational ones.
 
 __TODO__
 
+== Application to Software
+
+__TODO__
+
 
 = The Timeless Way of Building
 
 == My Reading of the Source
+
+__TODO__
+
+== Application to Software
 
 __TODO__
 
@@ -98,7 +189,7 @@ semilattice?
 analysing software in the manner of software metrics?  I'm not sure how you
 would detect a "meaningful" part, nor measure overlap.
 
-* I expect that measures of conformance "being a semilattice" might vary in
+* I expect that measures of conformance to "being a semilattice" might vary in
 "strength" at different parts of the system (just as in physical architecture).
 
 * How is all this affected by the fact that the parts in the design of a
@@ -106,11 +197,134 @@ software system -- to the extent that it exists explicitly, in someone's head or
 in documents -- may not match 1-to-N the parts of an implementation?
 
 * How might this relate to Conway's Law, which says that the structure of your
-software will match the structure of your oprganisation?  Should software teams
+software will match the structure of your organisation?  Should software teams
 intentionally overlap (in a way which thereby forms an effective larger team) in
 places where the software needs to integrate through meaningful overlap?
 
 ... and, most interestingly, ...
 
-* To the extent that a system might conform to the semilattice defintion, does
+* To the extent that a system might conform to the semilattice definition, does
 that actually make it "better" in some way?
+
+
+= Notes on the Synthesis of Form
+
+References:
+
+* https://en.wikipedia.org/wiki/Notes_on_the_Synthesis_of_Form
+
+* https://nplusonemag.com/issue-35/reviews/on-design-thinking/ (linked from
+Wikipedia)
+
+In Maggie Gram's article, Alexander is quoted as repudiating his earlier work,
+including this book, inasmuch as they try to define a single method for solving
+any design problem -- as I understand so far, any task of resolving conflicting
+requirements.  It leads into this by talking about Horst Rittel opposing
+"design methods" on the basis that the problems really worth solving -- "from
+poverty to the need for sanitary sewers" -- were very large with very complex
+context, meaning it was impossible to find a comprehensive, precise definition
+of the problem ... and, therefore, of solutions or even of one correct method
+for finding solutions.  Instead, basically, designers should be "allowed" or
+encouraged to take all sorts of approaches.
+
+
+= The Nature of Order, Book One: The Phenomenon of Life
+
+== Notes from the Source
+
+=== Preface
+
+2: The general mechanistic world-view in the 20th century contributed to an
+awkwardness and ugliness in the practice and output of architecture.  Getting
+beauty back may require changing our world-view.
+
+3: Beyond world-view, we need a practical theory of order: one which allows us
+to both understand and make it.  Also, "I want a conception of order subtle
+enough to explain the way the yellow tower makes us feel."
+
+4: Current understandings of order in terms of mechanism don't help us create
+touching beauty and harmony.
+
+5: The Cartesian world-view omits personal experience and values, but it was
+only intended as a way to model phenomena, not our real lives.  Alexander
+contends that some statements about value can be definitely true or false (not
+just opinions); in particular, clear, geometric statements about what is or
+makes harmony in a built thing.
+
+
+
+
+== My Reading of the Source
+
+(Still reading this ...)
+
+__TODO__
+
+
+== Application to Software
+
+__TODO__
+
+
+= Synthesis
+
+== Coming in through Design Patterns
+
+The original Gang of Four book gives quite low-level patterns, each with some
+motivation in terms of forces, in the Alexandrian style: "suppose you want X
+but Y".
+
+=== Hierarchy of Patterns
+
+However, _A Pattern Language_ says that you really want to discover (from 
+successful practice) families of patterns, joined in a DAG, loosely related to
+physical levels of structure (and, therefore, to levels of detail in
+construction).  The arrows A -> B in such a DAG are saying that, in applying a
+pattern A to resolve a conflict by making one kind of thing, you are likely to
+find that you have to resolve a conflict at a lower level by using pattern B.
+Also, the patterns in this book are more abstract than those in the GoF book,
+although perhaps about the same level as, for example, Martin Fowler's
+_Analysis Patterns_.  Another interesting point is that the patterns are
+labelled with a one-to-three-star rating indicating a degree of confidence,
+based on how many other people have used or seen these patterns and view them
+as successful.
+
+=== Recursive Construction
+
+The DAG structure above is not only telling you about related physical
+structures at the same and different levels of scale, but also about how to
+construct your system:
+
+* recursively down levels of scale, by solving the higher-level contradictions
+first; and,
+
+* iteratively over time during construction, because the details of the
+high-level solutions will constrain you in unforeseen ways.
+
+This is an argument for design up front, but not too detailed.  In several
+examples Alexander sketches out a mental model of the construction of the whole
+system in terms of which specific patterns to apply in roughly what order, but
+with the understanding that new details will be discovered at each step.
+
+=== Maintanance and Repair
+
+__TODO__
+
+
+=== Domain-Specificity
+
+In that book the languages are created from experience and are specific to some
+domain or sub-domain.  For example, the main pattern language is a general one
+about building places for people to live, and spans levels from pattern 1,
+"Independent Regions" (in which "a region has at least several million people
+in it", or it will be irrelevant in national government) down to pattern 251,
+"Different Chairs" (in which any seating area should have "a variety of
+different chairs" because different people are different sizes and prefer to
+sit differently).
+
+In _A Timeless Way of Building_ among other things he gives several examples
+of applying subsets of these patterns to particular projects, such as a cottage
+(Chapter 21) and a psychiatric institution (Chapter 22).  The latter includes
+extra, more domain-specific patterns which were derived over a series of
+workshops, based on analysis of the prospective medical staff's knowledge of
+other successful institutions.
