@@ -62,6 +62,14 @@ He published them in a different order:
 * ???: _The Process of Creating Life_
 
 
+= Dangling Thoughts ...
+
+I'm hoping _The Process of Creating Life_ will point me towards something in
+software which might be a "refactoring towards order", by analogy with
+_Refactoring to Patterns_ by Joshua Kerievsky.
+
+
+
 = Random Other References
 
 == TRIZ
@@ -243,7 +251,7 @@ to both understand and make it.  Also, "I want a conception of order subtle
 enough to explain the way the yellow tower makes us feel."
 
 4: Current understandings of order in terms of mechanism don't help us create
-touching beauty and harmony.
+touching beauty, harmony, and wholeness.
 
 5: The Cartesian world-view omits personal experience and values, but it was
 only intended as a way to model phenomena, not our real lives.  Alexander
@@ -251,6 +259,21 @@ contends that some statements about value can be definitely true or false (not
 just opinions); in particular, clear, geometric statements about what is or
 makes harmony in a built thing.
 
+6: Because values are not in the mechanistic view, architects have come to take
+"what is good" as a matter of opinion, meaning anyone's is equally valid.  They
+tend to pick some simplifying principle because otherwise it's too hard to know
+what to do (with no world-view about values) but the results aren't
+satisfactory.  The absence of "life" from these views "makes cooperative work
+... _very difficult in principle_."
+
+7: To make buildings with life and profound order we need a view of "things in
+their wholeness", not just reductionist.  Alexander's view has ornament and
+function as two sides of the same coin, sees "life" in inanimate objects, and
+sees order as related to our personal, human experience.  It extends the
+scientific view, rather than contradicting it.
+
+* HUGR NOTE: I wonder whether science since 1980 might  be more in accord with
+this in some ways.
 
 
 
