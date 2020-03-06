@@ -307,10 +307,10 @@ pattern A to resolve a conflict by making one kind of thing, you are likely to
 find that you have to resolve a conflict at a lower level by using pattern B.
 Also, the patterns in this book are more abstract than those in the GoF book,
 although perhaps about the same level as, for example, Martin Fowler's
-_Analysis Patterns_.  Another interesting point is that the patterns are
-labelled with a one-to-three-star rating indicating a degree of confidence,
-based on how many other people have used or seen these patterns and view them
-as successful.
+_Enterprise Integration Patterns_.  Another interesting point is that the
+patterns are labelled with a one-to-three-star rating indicating a degree of
+confidence, based on how many other people have used or seen these patterns
+and view them as successful.
 
 === Recursive Construction
 
