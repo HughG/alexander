@@ -527,6 +527,50 @@
                 <NodeOnSlide nodeId="ID_97812505"/>
             </NodesOnSlide>
         </slide>
+        <slide NAME="Structure-Preserving Transformations - Examples" showsOnlySpecificNodes="true" changesZoom="true" zoom="1.5">
+            <NodesOnSlide>
+                <NodeOnSlide nodeId="ID_1319901838"/>
+                <NodeOnSlide nodeId="ID_399356747"/>
+                <NodeOnSlide nodeId="ID_1592550823"/>
+                <NodeOnSlide nodeId="ID_234496501"/>
+                <NodeOnSlide nodeId="ID_821340071"/>
+                <NodeOnSlide nodeId="ID_1699286938"/>
+                <NodeOnSlide nodeId="ID_827489190"/>
+                <NodeOnSlide nodeId="ID_97588949"/>
+                <NodeOnSlide nodeId="ID_845370179"/>
+                <NodeOnSlide nodeId="ID_591694806"/>
+                <NodeOnSlide nodeId="ID_1963685237"/>
+                <NodeOnSlide nodeId="ID_1200801120"/>
+                <NodeOnSlide nodeId="ID_1088143721"/>
+                <NodeOnSlide nodeId="ID_1639054956"/>
+                <NodeOnSlide nodeId="ID_929810589"/>
+                <NodeOnSlide nodeId="ID_838254257"/>
+                <NodeOnSlide nodeId="ID_1894747375"/>
+                <NodeOnSlide nodeId="ID_1763679185"/>
+                <NodeOnSlide nodeId="ID_468742055"/>
+                <NodeOnSlide nodeId="ID_1518334938"/>
+                <NodeOnSlide nodeId="ID_1745884650"/>
+                <NodeOnSlide nodeId="ID_1349618511"/>
+                <NodeOnSlide nodeId="ID_1768248905"/>
+                <NodeOnSlide nodeId="ID_510450111"/>
+                <NodeOnSlide nodeId="ID_1861960950"/>
+                <NodeOnSlide nodeId="ID_949963161"/>
+                <NodeOnSlide nodeId="ID_856512485"/>
+                <NodeOnSlide nodeId="ID_1948968238"/>
+                <NodeOnSlide nodeId="ID_1696539956"/>
+                <NodeOnSlide nodeId="ID_871868704"/>
+                <NodeOnSlide nodeId="ID_1319174309"/>
+                <NodeOnSlide nodeId="ID_608255091"/>
+                <NodeOnSlide nodeId="ID_1853616542"/>
+                <NodeOnSlide nodeId="ID_1873955812"/>
+                <NodeOnSlide nodeId="ID_891488062"/>
+                <NodeOnSlide nodeId="ID_97812505"/>
+                <NodeOnSlide nodeId="ID_103231352"/>
+                <NodeOnSlide nodeId="ID_616577244"/>
+                <NodeOnSlide nodeId="ID_1286592537"/>
+                <NodeOnSlide nodeId="ID_693239984"/>
+            </NodesOnSlide>
+        </slide>
         <slide NAME="Deeper Properties" showsOnlySpecificNodes="true" changesZoom="true" zoom="1.5">
             <NodesOnSlide>
                 <NodeOnSlide nodeId="ID_468742055"/>
@@ -1238,7 +1282,7 @@
         </slide>
     </presentation>
 </hook>
-<node TEXT="Buildings" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="left" ID="ID_1592550823" CREATED="1628507820304" MODIFIED="1628538743274" TEXT_ALIGN="CENTER">
+<node TEXT="Buildings" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="left" ID="ID_1592550823" CREATED="1628507820304" MODIFIED="1628595905818" TEXT_ALIGN="CENTER">
 <edge COLOR="#ff0000"/>
 <node TEXT="Knowledge" ID="ID_234496501" CREATED="1628513380124" MODIFIED="1628518917106" HGAP_QUANTITY="32.74999944120647 pt" VSHIFT_QUANTITY="-168.74999497085827 pt">
 <hook NAME="FreeNode"/>
@@ -1277,13 +1321,13 @@
 <node TEXT="Environment" ID="ID_838254257" CREATED="1628513580320" MODIFIED="1628513583946"/>
 <node TEXT="Detail" ID="ID_1894747375" CREATED="1628513584585" MODIFIED="1628513586684"/>
 </node>
-<node TEXT="Geometry" ID="ID_1319901838" CREATED="1628513596819" MODIFIED="1628541149542">
+<node TEXT="Geometry" ID="ID_1319901838" CREATED="1628513596819" MODIFIED="1628595909086">
 <node TEXT="Aesthetics" ID="ID_1763679185" CREATED="1628513662362" MODIFIED="1628541146612" HGAP_QUANTITY="83.74999792128807 pt" VSHIFT_QUANTITY="-29.999999105930357 pt">
 <hook NAME="FreeNode"/>
 </node>
-<node TEXT="15 Properties" ID="ID_468742055" CREATED="1628513655603" MODIFIED="1628541608100" HGAP_QUANTITY="30.499999508261695 pt" VSHIFT_QUANTITY="1.4999999552965178 pt">
+<node TEXT="15 Properties" ID="ID_468742055" CREATED="1628513655603" MODIFIED="1628595987018" HGAP_QUANTITY="30.499999508261695 pt" VSHIFT_QUANTITY="1.4999999552965178 pt">
 <icon BUILTIN="bookmark"/>
-<node TEXT="List of ..." FOLDED="true" ID="ID_100731839" CREATED="1628540879130" MODIFIED="1628541196778" HGAP_QUANTITY="34.999999374151244 pt" VSHIFT_QUANTITY="-8.999999731779107 pt">
+<node TEXT="List of ..." ID="ID_100731839" CREATED="1628540879130" MODIFIED="1628541196778" HGAP_QUANTITY="34.999999374151244 pt" VSHIFT_QUANTITY="-8.999999731779107 pt">
 <node TEXT="Levels of scale" ID="ID_1195421701" CREATED="1628541055977" MODIFIED="1628541055977"/>
 <node TEXT="Strong centers" ID="ID_1297471335" CREATED="1628541055977" MODIFIED="1628541055977"/>
 <node TEXT="Boundaries" ID="ID_1102248422" CREATED="1628541055978" MODIFIED="1628541055978"/>
@@ -1300,7 +1344,7 @@
 <node TEXT="Simplicity and Inner Calm" ID="ID_1465767134" CREATED="1628541055982" MODIFIED="1628541055982"/>
 <node TEXT="Not-separateness" ID="ID_877804051" CREATED="1628541055982" MODIFIED="1628541055982"/>
 </node>
-<node TEXT="Fewer/&#xa;Deeper?" FOLDED="true" ID="ID_802946528" CREATED="1628521172086" MODIFIED="1628541608100" HGAP_QUANTITY="33.49999941885473 pt" VSHIFT_QUANTITY="-5.2499998435378075 pt">
+<node TEXT="Fewer/&#xa;Deeper?" FOLDED="true" ID="ID_802946528" CREATED="1628521172086" MODIFIED="1628595987018" HGAP_QUANTITY="27.499999597668662 pt" VSHIFT_QUANTITY="-18.74999944120647 pt">
 <icon BUILTIN="idea"/>
 <icon BUILTIN="help"/>
 <node TEXT="Gradients" ID="ID_703619858" CREATED="1628521178874" MODIFIED="1628521181490"/>
@@ -1314,14 +1358,18 @@
 <node TEXT="Centres" ID="ID_1518334938" CREATED="1628513650979" MODIFIED="1628541149542" HGAP_QUANTITY="89.74999774247415 pt" VSHIFT_QUANTITY="29.2499991282821 pt">
 <hook NAME="FreeNode"/>
 </node>
-<node TEXT="Structure-Preserving&#xa;Transformations" ID="ID_97812505" CREATED="1628520967081" MODIFIED="1628590318577" HGAP_QUANTITY="111.49999709427365 pt" VSHIFT_QUANTITY="62.24999814480549 pt">
+<node TEXT="Structure-Preserving&#xa;Transformations" ID="ID_97812505" CREATED="1628520967081" MODIFIED="1628595909086" HGAP_QUANTITY="115.99999696016322 pt" VSHIFT_QUANTITY="131.2499960884453 pt">
 <icon BUILTIN="bookmark"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="2 7" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_75932167" STARTINCLINATION="-44;379;" ENDINCLINATION="-163;190;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <hook NAME="FreeNode"/>
+<node TEXT="Levels of Scale:&#xa;Stone Walls" ID="ID_693239984" CREATED="1628595578215" MODIFIED="1628595587471"/>
+<node TEXT="Alternating Repetition:&#xa;Sand Dunes, Tipi Poles" ID="ID_1286592537" CREATED="1628594788254" MODIFIED="1628595655430"/>
+<node TEXT="Positive Space:&#xa;Wood tissue, Alcoves" ID="ID_103231352" CREATED="1628595006872" MODIFIED="1628595642448"/>
+<node TEXT="Roughness:&#xa;Pottery Patterns,&#xa;Stone Walls" ID="ID_616577244" CREATED="1628595098838" MODIFIED="1628595779328"/>
 </node>
 </node>
 </node>
-<node TEXT="Time" ID="ID_1745884650" CREATED="1628513377554" MODIFIED="1628538743273" HGAP_QUANTITY="154.2499958202244 pt" VSHIFT_QUANTITY="156.7499953284861 pt">
+<node TEXT="Time" ID="ID_1745884650" CREATED="1628513377554" MODIFIED="1628595905818" HGAP_QUANTITY="155.74999577552092 pt" VSHIFT_QUANTITY="179.24999465793388 pt">
 <hook NAME="FreeNode"/>
 <node TEXT="Evolution" ID="ID_1349618511" CREATED="1628513468444" MODIFIED="1628540235765">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="2 7" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1088143721" STARTINCLINATION="-51;-31;" ENDINCLINATION="-110;85;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
