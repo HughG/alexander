@@ -3,7 +3,7 @@
 <node TEXT="Life-Like&#xa;Software" FOLDED="false" ID="ID_399356747" CREATED="1628507217002" MODIFIED="1628539560060" STYLE="oval" TEXT_ALIGN="CENTER">
 <font SIZE="18"/>
 <hook NAME="MapStyle" zoom="1.5">
-    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false"/>
+    <properties fit_to_viewport="false" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
@@ -572,14 +572,677 @@
                 <NodeOnSlide nodeId="ID_802946528"/>
             </NodesOnSlide>
         </slide>
+        <slide NAME="Buildings Condensed" showsOnlySpecificNodes="true" changesZoom="true" zoom="1.5">
+            <NodesOnSlide>
+                <NodeOnSlide nodeId="ID_399356747"/>
+                <NodeOnSlide nodeId="ID_1592550823"/>
+                <NodeOnSlide nodeId="ID_591694806"/>
+                <NodeOnSlide nodeId="ID_1963685237"/>
+                <NodeOnSlide nodeId="ID_1200801120"/>
+                <NodeOnSlide nodeId="ID_1319901838"/>
+                <NodeOnSlide nodeId="ID_468742055"/>
+                <NodeOnSlide nodeId="ID_802946528"/>
+                <NodeOnSlide nodeId="ID_97812505"/>
+                <NodeOnSlide nodeId="ID_510450111"/>
+                <NodeOnSlide nodeId="ID_1319174309"/>
+                <NodeOnSlide nodeId="ID_608255091"/>
+                <NodeOnSlide nodeId="ID_1853616542"/>
+                <NodeOnSlide nodeId="ID_1873955812"/>
+                <NodeOnSlide nodeId="ID_891488062"/>
+                <NodeOnSlide nodeId="ID_1768248905"/>
+                <NodeOnSlide nodeId="ID_845370179"/>
+                <NodeOnSlide nodeId="ID_1745884650"/>
+                <NodeOnSlide nodeId="ID_821340071"/>
+                <NodeOnSlide nodeId="ID_234496501"/>
+                <NodeOnSlide nodeId="ID_1639054956"/>
+            </NodesOnSlide>
+        </slide>
+        <slide NAME="Software Patterns" showsOnlySpecificNodes="true" changesZoom="true" zoom="1.5">
+            <NodesOnSlide>
+                <NodeOnSlide nodeId="ID_399356747"/>
+                <NodeOnSlide nodeId="ID_1592550823"/>
+                <NodeOnSlide nodeId="ID_234496501"/>
+                <NodeOnSlide nodeId="ID_821340071"/>
+                <NodeOnSlide nodeId="ID_845370179"/>
+                <NodeOnSlide nodeId="ID_591694806"/>
+                <NodeOnSlide nodeId="ID_1963685237"/>
+                <NodeOnSlide nodeId="ID_1200801120"/>
+                <NodeOnSlide nodeId="ID_1639054956"/>
+                <NodeOnSlide nodeId="ID_1319901838"/>
+                <NodeOnSlide nodeId="ID_468742055"/>
+                <NodeOnSlide nodeId="ID_802946528"/>
+                <NodeOnSlide nodeId="ID_97812505"/>
+                <NodeOnSlide nodeId="ID_1745884650"/>
+                <NodeOnSlide nodeId="ID_1768248905"/>
+                <NodeOnSlide nodeId="ID_510450111"/>
+                <NodeOnSlide nodeId="ID_1319174309"/>
+                <NodeOnSlide nodeId="ID_608255091"/>
+                <NodeOnSlide nodeId="ID_1853616542"/>
+                <NodeOnSlide nodeId="ID_1873955812"/>
+                <NodeOnSlide nodeId="ID_891488062"/>
+                <NodeOnSlide nodeId="ID_1408157203"/>
+                <NodeOnSlide nodeId="ID_1730136770"/>
+                <NodeOnSlide nodeId="ID_1935633763"/>
+            </NodesOnSlide>
+        </slide>
+        <slide NAME="Software Patterns - More" showsOnlySpecificNodes="true" changesZoom="true" zoom="1.5">
+            <NodesOnSlide>
+                <NodeOnSlide nodeId="ID_399356747"/>
+                <NodeOnSlide nodeId="ID_1592550823"/>
+                <NodeOnSlide nodeId="ID_234496501"/>
+                <NodeOnSlide nodeId="ID_821340071"/>
+                <NodeOnSlide nodeId="ID_845370179"/>
+                <NodeOnSlide nodeId="ID_591694806"/>
+                <NodeOnSlide nodeId="ID_1963685237"/>
+                <NodeOnSlide nodeId="ID_1200801120"/>
+                <NodeOnSlide nodeId="ID_1639054956"/>
+                <NodeOnSlide nodeId="ID_1319901838"/>
+                <NodeOnSlide nodeId="ID_468742055"/>
+                <NodeOnSlide nodeId="ID_802946528"/>
+                <NodeOnSlide nodeId="ID_97812505"/>
+                <NodeOnSlide nodeId="ID_1745884650"/>
+                <NodeOnSlide nodeId="ID_1768248905"/>
+                <NodeOnSlide nodeId="ID_510450111"/>
+                <NodeOnSlide nodeId="ID_1319174309"/>
+                <NodeOnSlide nodeId="ID_608255091"/>
+                <NodeOnSlide nodeId="ID_1853616542"/>
+                <NodeOnSlide nodeId="ID_1873955812"/>
+                <NodeOnSlide nodeId="ID_891488062"/>
+                <NodeOnSlide nodeId="ID_1408157203"/>
+                <NodeOnSlide nodeId="ID_1730136770"/>
+                <NodeOnSlide nodeId="ID_1489438729"/>
+                <NodeOnSlide nodeId="ID_1098625639"/>
+                <NodeOnSlide nodeId="ID_1935633763"/>
+            </NodesOnSlide>
+        </slide>
+        <slide NAME="Elaborative Patterns" showsOnlySpecificNodes="true" changesZoom="true" zoom="1.5">
+            <NodesOnSlide>
+                <NodeOnSlide nodeId="ID_399356747"/>
+                <NodeOnSlide nodeId="ID_1592550823"/>
+                <NodeOnSlide nodeId="ID_234496501"/>
+                <NodeOnSlide nodeId="ID_821340071"/>
+                <NodeOnSlide nodeId="ID_845370179"/>
+                <NodeOnSlide nodeId="ID_591694806"/>
+                <NodeOnSlide nodeId="ID_1963685237"/>
+                <NodeOnSlide nodeId="ID_1200801120"/>
+                <NodeOnSlide nodeId="ID_1639054956"/>
+                <NodeOnSlide nodeId="ID_1319901838"/>
+                <NodeOnSlide nodeId="ID_468742055"/>
+                <NodeOnSlide nodeId="ID_802946528"/>
+                <NodeOnSlide nodeId="ID_97812505"/>
+                <NodeOnSlide nodeId="ID_1745884650"/>
+                <NodeOnSlide nodeId="ID_1768248905"/>
+                <NodeOnSlide nodeId="ID_510450111"/>
+                <NodeOnSlide nodeId="ID_1319174309"/>
+                <NodeOnSlide nodeId="ID_608255091"/>
+                <NodeOnSlide nodeId="ID_1853616542"/>
+                <NodeOnSlide nodeId="ID_1873955812"/>
+                <NodeOnSlide nodeId="ID_891488062"/>
+                <NodeOnSlide nodeId="ID_1730136770"/>
+                <NodeOnSlide nodeId="ID_1935633763"/>
+                <NodeOnSlide nodeId="ID_75932167"/>
+            </NodesOnSlide>
+        </slide>
+        <slide NAME="Elaborative Patterns - More" showsOnlySpecificNodes="true" changesZoom="true" zoom="1.5">
+            <NodesOnSlide>
+                <NodeOnSlide nodeId="ID_399356747"/>
+                <NodeOnSlide nodeId="ID_1592550823"/>
+                <NodeOnSlide nodeId="ID_234496501"/>
+                <NodeOnSlide nodeId="ID_821340071"/>
+                <NodeOnSlide nodeId="ID_845370179"/>
+                <NodeOnSlide nodeId="ID_591694806"/>
+                <NodeOnSlide nodeId="ID_1963685237"/>
+                <NodeOnSlide nodeId="ID_1200801120"/>
+                <NodeOnSlide nodeId="ID_1639054956"/>
+                <NodeOnSlide nodeId="ID_1319901838"/>
+                <NodeOnSlide nodeId="ID_468742055"/>
+                <NodeOnSlide nodeId="ID_802946528"/>
+                <NodeOnSlide nodeId="ID_97812505"/>
+                <NodeOnSlide nodeId="ID_1745884650"/>
+                <NodeOnSlide nodeId="ID_1768248905"/>
+                <NodeOnSlide nodeId="ID_510450111"/>
+                <NodeOnSlide nodeId="ID_1319174309"/>
+                <NodeOnSlide nodeId="ID_608255091"/>
+                <NodeOnSlide nodeId="ID_1853616542"/>
+                <NodeOnSlide nodeId="ID_1873955812"/>
+                <NodeOnSlide nodeId="ID_891488062"/>
+                <NodeOnSlide nodeId="ID_1730136770"/>
+                <NodeOnSlide nodeId="ID_1935633763"/>
+                <NodeOnSlide nodeId="ID_75932167"/>
+                <NodeOnSlide nodeId="ID_1589344086"/>
+                <NodeOnSlide nodeId="ID_322120862"/>
+            </NodesOnSlide>
+        </slide>
+        <slide NAME="Understanding through Geometry" showsOnlySpecificNodes="true" changesZoom="true" zoom="1.5">
+            <NodesOnSlide>
+                <NodeOnSlide nodeId="ID_399356747"/>
+                <NodeOnSlide nodeId="ID_1592550823"/>
+                <NodeOnSlide nodeId="ID_234496501"/>
+                <NodeOnSlide nodeId="ID_821340071"/>
+                <NodeOnSlide nodeId="ID_845370179"/>
+                <NodeOnSlide nodeId="ID_591694806"/>
+                <NodeOnSlide nodeId="ID_1963685237"/>
+                <NodeOnSlide nodeId="ID_1200801120"/>
+                <NodeOnSlide nodeId="ID_1639054956"/>
+                <NodeOnSlide nodeId="ID_1319901838"/>
+                <NodeOnSlide nodeId="ID_468742055"/>
+                <NodeOnSlide nodeId="ID_802946528"/>
+                <NodeOnSlide nodeId="ID_97812505"/>
+                <NodeOnSlide nodeId="ID_1745884650"/>
+                <NodeOnSlide nodeId="ID_1768248905"/>
+                <NodeOnSlide nodeId="ID_510450111"/>
+                <NodeOnSlide nodeId="ID_1319174309"/>
+                <NodeOnSlide nodeId="ID_608255091"/>
+                <NodeOnSlide nodeId="ID_1853616542"/>
+                <NodeOnSlide nodeId="ID_1873955812"/>
+                <NodeOnSlide nodeId="ID_891488062"/>
+                <NodeOnSlide nodeId="ID_1730136770"/>
+                <NodeOnSlide nodeId="ID_1935633763"/>
+                <NodeOnSlide nodeId="ID_75932167"/>
+                <NodeOnSlide nodeId="ID_1589344086"/>
+                <NodeOnSlide nodeId="ID_322120862"/>
+                <NodeOnSlide nodeId="ID_203634077"/>
+                <NodeOnSlide nodeId="ID_961795480"/>
+            </NodesOnSlide>
+        </slide>
+        <slide NAME="Geometry - Aspects" showsOnlySpecificNodes="true" changesZoom="true" zoom="1.5">
+            <NodesOnSlide>
+                <NodeOnSlide nodeId="ID_399356747"/>
+                <NodeOnSlide nodeId="ID_1592550823"/>
+                <NodeOnSlide nodeId="ID_234496501"/>
+                <NodeOnSlide nodeId="ID_821340071"/>
+                <NodeOnSlide nodeId="ID_845370179"/>
+                <NodeOnSlide nodeId="ID_591694806"/>
+                <NodeOnSlide nodeId="ID_1963685237"/>
+                <NodeOnSlide nodeId="ID_1200801120"/>
+                <NodeOnSlide nodeId="ID_1639054956"/>
+                <NodeOnSlide nodeId="ID_1319901838"/>
+                <NodeOnSlide nodeId="ID_468742055"/>
+                <NodeOnSlide nodeId="ID_802946528"/>
+                <NodeOnSlide nodeId="ID_97812505"/>
+                <NodeOnSlide nodeId="ID_1745884650"/>
+                <NodeOnSlide nodeId="ID_1768248905"/>
+                <NodeOnSlide nodeId="ID_510450111"/>
+                <NodeOnSlide nodeId="ID_1319174309"/>
+                <NodeOnSlide nodeId="ID_608255091"/>
+                <NodeOnSlide nodeId="ID_1853616542"/>
+                <NodeOnSlide nodeId="ID_1873955812"/>
+                <NodeOnSlide nodeId="ID_891488062"/>
+                <NodeOnSlide nodeId="ID_1730136770"/>
+                <NodeOnSlide nodeId="ID_1935633763"/>
+                <NodeOnSlide nodeId="ID_75932167"/>
+                <NodeOnSlide nodeId="ID_1589344086"/>
+                <NodeOnSlide nodeId="ID_322120862"/>
+                <NodeOnSlide nodeId="ID_203634077"/>
+                <NodeOnSlide nodeId="ID_961795480"/>
+                <NodeOnSlide nodeId="ID_1265623012"/>
+                <NodeOnSlide nodeId="ID_442218298"/>
+                <NodeOnSlide nodeId="ID_1728526608"/>
+                <NodeOnSlide nodeId="ID_1877665411"/>
+                <NodeOnSlide nodeId="ID_389095458"/>
+                <NodeOnSlide nodeId="ID_1095981116"/>
+                <NodeOnSlide nodeId="ID_147851935"/>
+                <NodeOnSlide nodeId="ID_1340612436"/>
+                <NodeOnSlide nodeId="ID_1244284593"/>
+            </NodesOnSlide>
+        </slide>
+        <slide NAME="Geometry - Spaces" showsOnlySpecificNodes="true" changesZoom="true" zoom="1.5">
+            <NodesOnSlide>
+                <NodeOnSlide nodeId="ID_399356747"/>
+                <NodeOnSlide nodeId="ID_1592550823"/>
+                <NodeOnSlide nodeId="ID_234496501"/>
+                <NodeOnSlide nodeId="ID_821340071"/>
+                <NodeOnSlide nodeId="ID_845370179"/>
+                <NodeOnSlide nodeId="ID_591694806"/>
+                <NodeOnSlide nodeId="ID_1963685237"/>
+                <NodeOnSlide nodeId="ID_1200801120"/>
+                <NodeOnSlide nodeId="ID_1639054956"/>
+                <NodeOnSlide nodeId="ID_1319901838"/>
+                <NodeOnSlide nodeId="ID_468742055"/>
+                <NodeOnSlide nodeId="ID_802946528"/>
+                <NodeOnSlide nodeId="ID_97812505"/>
+                <NodeOnSlide nodeId="ID_1745884650"/>
+                <NodeOnSlide nodeId="ID_1768248905"/>
+                <NodeOnSlide nodeId="ID_510450111"/>
+                <NodeOnSlide nodeId="ID_1319174309"/>
+                <NodeOnSlide nodeId="ID_608255091"/>
+                <NodeOnSlide nodeId="ID_1853616542"/>
+                <NodeOnSlide nodeId="ID_1873955812"/>
+                <NodeOnSlide nodeId="ID_891488062"/>
+                <NodeOnSlide nodeId="ID_1730136770"/>
+                <NodeOnSlide nodeId="ID_1935633763"/>
+                <NodeOnSlide nodeId="ID_75932167"/>
+                <NodeOnSlide nodeId="ID_1589344086"/>
+                <NodeOnSlide nodeId="ID_322120862"/>
+                <NodeOnSlide nodeId="ID_203634077"/>
+                <NodeOnSlide nodeId="ID_961795480"/>
+                <NodeOnSlide nodeId="ID_1877665411"/>
+                <NodeOnSlide nodeId="ID_159665513"/>
+            </NodesOnSlide>
+        </slide>
+        <slide NAME="Geometry - Features" showsOnlySpecificNodes="true" changesZoom="true" zoom="1.5">
+            <NodesOnSlide>
+                <NodeOnSlide nodeId="ID_399356747"/>
+                <NodeOnSlide nodeId="ID_1592550823"/>
+                <NodeOnSlide nodeId="ID_234496501"/>
+                <NodeOnSlide nodeId="ID_821340071"/>
+                <NodeOnSlide nodeId="ID_845370179"/>
+                <NodeOnSlide nodeId="ID_591694806"/>
+                <NodeOnSlide nodeId="ID_1963685237"/>
+                <NodeOnSlide nodeId="ID_1200801120"/>
+                <NodeOnSlide nodeId="ID_1639054956"/>
+                <NodeOnSlide nodeId="ID_1319901838"/>
+                <NodeOnSlide nodeId="ID_468742055"/>
+                <NodeOnSlide nodeId="ID_802946528"/>
+                <NodeOnSlide nodeId="ID_97812505"/>
+                <NodeOnSlide nodeId="ID_1745884650"/>
+                <NodeOnSlide nodeId="ID_1768248905"/>
+                <NodeOnSlide nodeId="ID_510450111"/>
+                <NodeOnSlide nodeId="ID_1319174309"/>
+                <NodeOnSlide nodeId="ID_608255091"/>
+                <NodeOnSlide nodeId="ID_1853616542"/>
+                <NodeOnSlide nodeId="ID_1873955812"/>
+                <NodeOnSlide nodeId="ID_891488062"/>
+                <NodeOnSlide nodeId="ID_1730136770"/>
+                <NodeOnSlide nodeId="ID_1935633763"/>
+                <NodeOnSlide nodeId="ID_75932167"/>
+                <NodeOnSlide nodeId="ID_1589344086"/>
+                <NodeOnSlide nodeId="ID_322120862"/>
+                <NodeOnSlide nodeId="ID_203634077"/>
+                <NodeOnSlide nodeId="ID_961795480"/>
+                <NodeOnSlide nodeId="ID_1877665411"/>
+                <NodeOnSlide nodeId="ID_159665513"/>
+                <NodeOnSlide nodeId="ID_1179105963"/>
+                <NodeOnSlide nodeId="ID_189890921"/>
+                <NodeOnSlide nodeId="ID_285063899"/>
+                <NodeOnSlide nodeId="ID_1576168059"/>
+            </NodesOnSlide>
+        </slide>
+        <slide NAME="Geometry - Why (1)" showsOnlySpecificNodes="true" changesZoom="true" zoom="1.5">
+            <NodesOnSlide>
+                <NodeOnSlide nodeId="ID_399356747"/>
+                <NodeOnSlide nodeId="ID_1592550823"/>
+                <NodeOnSlide nodeId="ID_234496501"/>
+                <NodeOnSlide nodeId="ID_821340071"/>
+                <NodeOnSlide nodeId="ID_845370179"/>
+                <NodeOnSlide nodeId="ID_591694806"/>
+                <NodeOnSlide nodeId="ID_1963685237"/>
+                <NodeOnSlide nodeId="ID_1200801120"/>
+                <NodeOnSlide nodeId="ID_1639054956"/>
+                <NodeOnSlide nodeId="ID_1319901838"/>
+                <NodeOnSlide nodeId="ID_468742055"/>
+                <NodeOnSlide nodeId="ID_802946528"/>
+                <NodeOnSlide nodeId="ID_97812505"/>
+                <NodeOnSlide nodeId="ID_1745884650"/>
+                <NodeOnSlide nodeId="ID_1768248905"/>
+                <NodeOnSlide nodeId="ID_510450111"/>
+                <NodeOnSlide nodeId="ID_1319174309"/>
+                <NodeOnSlide nodeId="ID_608255091"/>
+                <NodeOnSlide nodeId="ID_1853616542"/>
+                <NodeOnSlide nodeId="ID_1873955812"/>
+                <NodeOnSlide nodeId="ID_891488062"/>
+                <NodeOnSlide nodeId="ID_1730136770"/>
+                <NodeOnSlide nodeId="ID_1935633763"/>
+                <NodeOnSlide nodeId="ID_75932167"/>
+                <NodeOnSlide nodeId="ID_1589344086"/>
+                <NodeOnSlide nodeId="ID_322120862"/>
+                <NodeOnSlide nodeId="ID_203634077"/>
+                <NodeOnSlide nodeId="ID_961795480"/>
+                <NodeOnSlide nodeId="ID_1877665411"/>
+                <NodeOnSlide nodeId="ID_159665513"/>
+                <NodeOnSlide nodeId="ID_285063899"/>
+                <NodeOnSlide nodeId="ID_1313897915"/>
+                <NodeOnSlide nodeId="ID_240495404"/>
+                <NodeOnSlide nodeId="ID_1037138660"/>
+                <NodeOnSlide nodeId="ID_1238369242"/>
+            </NodesOnSlide>
+        </slide>
+        <slide NAME="Geometry - Why (2)" showsOnlySpecificNodes="true" changesZoom="true" zoom="1.5">
+            <NodesOnSlide>
+                <NodeOnSlide nodeId="ID_399356747"/>
+                <NodeOnSlide nodeId="ID_1592550823"/>
+                <NodeOnSlide nodeId="ID_234496501"/>
+                <NodeOnSlide nodeId="ID_821340071"/>
+                <NodeOnSlide nodeId="ID_845370179"/>
+                <NodeOnSlide nodeId="ID_591694806"/>
+                <NodeOnSlide nodeId="ID_1963685237"/>
+                <NodeOnSlide nodeId="ID_1200801120"/>
+                <NodeOnSlide nodeId="ID_1639054956"/>
+                <NodeOnSlide nodeId="ID_1319901838"/>
+                <NodeOnSlide nodeId="ID_468742055"/>
+                <NodeOnSlide nodeId="ID_802946528"/>
+                <NodeOnSlide nodeId="ID_97812505"/>
+                <NodeOnSlide nodeId="ID_1745884650"/>
+                <NodeOnSlide nodeId="ID_1768248905"/>
+                <NodeOnSlide nodeId="ID_510450111"/>
+                <NodeOnSlide nodeId="ID_1319174309"/>
+                <NodeOnSlide nodeId="ID_608255091"/>
+                <NodeOnSlide nodeId="ID_1853616542"/>
+                <NodeOnSlide nodeId="ID_1873955812"/>
+                <NodeOnSlide nodeId="ID_891488062"/>
+                <NodeOnSlide nodeId="ID_1730136770"/>
+                <NodeOnSlide nodeId="ID_1935633763"/>
+                <NodeOnSlide nodeId="ID_75932167"/>
+                <NodeOnSlide nodeId="ID_1589344086"/>
+                <NodeOnSlide nodeId="ID_322120862"/>
+                <NodeOnSlide nodeId="ID_203634077"/>
+                <NodeOnSlide nodeId="ID_961795480"/>
+                <NodeOnSlide nodeId="ID_1877665411"/>
+                <NodeOnSlide nodeId="ID_159665513"/>
+                <NodeOnSlide nodeId="ID_285063899"/>
+                <NodeOnSlide nodeId="ID_1313897915"/>
+                <NodeOnSlide nodeId="ID_240495404"/>
+                <NodeOnSlide nodeId="ID_1037138660"/>
+                <NodeOnSlide nodeId="ID_1238369242"/>
+                <NodeOnSlide nodeId="ID_1058600913"/>
+                <NodeOnSlide nodeId="ID_1590889307"/>
+                <NodeOnSlide nodeId="ID_604498080"/>
+                <NodeOnSlide nodeId="ID_1295129405"/>
+            </NodesOnSlide>
+        </slide>
+        <slide NAME="Geometry - Why (3)" showsOnlySpecificNodes="true" changesZoom="true" zoom="1.5">
+            <NodesOnSlide>
+                <NodeOnSlide nodeId="ID_399356747"/>
+                <NodeOnSlide nodeId="ID_1592550823"/>
+                <NodeOnSlide nodeId="ID_234496501"/>
+                <NodeOnSlide nodeId="ID_821340071"/>
+                <NodeOnSlide nodeId="ID_845370179"/>
+                <NodeOnSlide nodeId="ID_591694806"/>
+                <NodeOnSlide nodeId="ID_1963685237"/>
+                <NodeOnSlide nodeId="ID_1200801120"/>
+                <NodeOnSlide nodeId="ID_1639054956"/>
+                <NodeOnSlide nodeId="ID_1319901838"/>
+                <NodeOnSlide nodeId="ID_468742055"/>
+                <NodeOnSlide nodeId="ID_802946528"/>
+                <NodeOnSlide nodeId="ID_97812505"/>
+                <NodeOnSlide nodeId="ID_1745884650"/>
+                <NodeOnSlide nodeId="ID_1768248905"/>
+                <NodeOnSlide nodeId="ID_510450111"/>
+                <NodeOnSlide nodeId="ID_1319174309"/>
+                <NodeOnSlide nodeId="ID_608255091"/>
+                <NodeOnSlide nodeId="ID_1853616542"/>
+                <NodeOnSlide nodeId="ID_1873955812"/>
+                <NodeOnSlide nodeId="ID_891488062"/>
+                <NodeOnSlide nodeId="ID_1730136770"/>
+                <NodeOnSlide nodeId="ID_1935633763"/>
+                <NodeOnSlide nodeId="ID_75932167"/>
+                <NodeOnSlide nodeId="ID_1589344086"/>
+                <NodeOnSlide nodeId="ID_322120862"/>
+                <NodeOnSlide nodeId="ID_203634077"/>
+                <NodeOnSlide nodeId="ID_961795480"/>
+                <NodeOnSlide nodeId="ID_1877665411"/>
+                <NodeOnSlide nodeId="ID_159665513"/>
+                <NodeOnSlide nodeId="ID_285063899"/>
+                <NodeOnSlide nodeId="ID_1313897915"/>
+                <NodeOnSlide nodeId="ID_240495404"/>
+                <NodeOnSlide nodeId="ID_1037138660"/>
+                <NodeOnSlide nodeId="ID_1238369242"/>
+                <NodeOnSlide nodeId="ID_1058600913"/>
+                <NodeOnSlide nodeId="ID_1590889307"/>
+                <NodeOnSlide nodeId="ID_604498080"/>
+                <NodeOnSlide nodeId="ID_1295129405"/>
+                <NodeOnSlide nodeId="ID_1410989839"/>
+                <NodeOnSlide nodeId="ID_372258989"/>
+                <NodeOnSlide nodeId="ID_782120114"/>
+            </NodesOnSlide>
+        </slide>
+        <slide NAME="Approaches" showsOnlySpecificNodes="true" changesZoom="true" zoom="1.5">
+            <NodesOnSlide>
+                <NodeOnSlide nodeId="ID_399356747"/>
+                <NodeOnSlide nodeId="ID_1592550823"/>
+                <NodeOnSlide nodeId="ID_234496501"/>
+                <NodeOnSlide nodeId="ID_821340071"/>
+                <NodeOnSlide nodeId="ID_845370179"/>
+                <NodeOnSlide nodeId="ID_591694806"/>
+                <NodeOnSlide nodeId="ID_1963685237"/>
+                <NodeOnSlide nodeId="ID_1200801120"/>
+                <NodeOnSlide nodeId="ID_1639054956"/>
+                <NodeOnSlide nodeId="ID_1319901838"/>
+                <NodeOnSlide nodeId="ID_468742055"/>
+                <NodeOnSlide nodeId="ID_802946528"/>
+                <NodeOnSlide nodeId="ID_97812505"/>
+                <NodeOnSlide nodeId="ID_1745884650"/>
+                <NodeOnSlide nodeId="ID_1768248905"/>
+                <NodeOnSlide nodeId="ID_510450111"/>
+                <NodeOnSlide nodeId="ID_1319174309"/>
+                <NodeOnSlide nodeId="ID_608255091"/>
+                <NodeOnSlide nodeId="ID_1853616542"/>
+                <NodeOnSlide nodeId="ID_1873955812"/>
+                <NodeOnSlide nodeId="ID_891488062"/>
+                <NodeOnSlide nodeId="ID_1730136770"/>
+                <NodeOnSlide nodeId="ID_1935633763"/>
+                <NodeOnSlide nodeId="ID_75932167"/>
+                <NodeOnSlide nodeId="ID_322120862"/>
+                <NodeOnSlide nodeId="ID_203634077"/>
+                <NodeOnSlide nodeId="ID_961795480"/>
+                <NodeOnSlide nodeId="ID_1877665411"/>
+                <NodeOnSlide nodeId="ID_159665513"/>
+                <NodeOnSlide nodeId="ID_285063899"/>
+                <NodeOnSlide nodeId="ID_1313897915"/>
+                <NodeOnSlide nodeId="ID_372258989"/>
+                <NodeOnSlide nodeId="ID_782120114"/>
+                <NodeOnSlide nodeId="ID_743191713"/>
+            </NodesOnSlide>
+            <FoldedNodes/>
+        </slide>
+        <slide NAME="Approaches - 15 Properties" showsOnlySpecificNodes="true" changesZoom="true" zoom="1.5">
+            <NodesOnSlide>
+                <NodeOnSlide nodeId="ID_399356747"/>
+                <NodeOnSlide nodeId="ID_1592550823"/>
+                <NodeOnSlide nodeId="ID_234496501"/>
+                <NodeOnSlide nodeId="ID_821340071"/>
+                <NodeOnSlide nodeId="ID_845370179"/>
+                <NodeOnSlide nodeId="ID_591694806"/>
+                <NodeOnSlide nodeId="ID_1963685237"/>
+                <NodeOnSlide nodeId="ID_1200801120"/>
+                <NodeOnSlide nodeId="ID_1639054956"/>
+                <NodeOnSlide nodeId="ID_1319901838"/>
+                <NodeOnSlide nodeId="ID_468742055"/>
+                <NodeOnSlide nodeId="ID_802946528"/>
+                <NodeOnSlide nodeId="ID_97812505"/>
+                <NodeOnSlide nodeId="ID_1745884650"/>
+                <NodeOnSlide nodeId="ID_1768248905"/>
+                <NodeOnSlide nodeId="ID_510450111"/>
+                <NodeOnSlide nodeId="ID_1319174309"/>
+                <NodeOnSlide nodeId="ID_608255091"/>
+                <NodeOnSlide nodeId="ID_1853616542"/>
+                <NodeOnSlide nodeId="ID_1873955812"/>
+                <NodeOnSlide nodeId="ID_891488062"/>
+                <NodeOnSlide nodeId="ID_1730136770"/>
+                <NodeOnSlide nodeId="ID_1935633763"/>
+                <NodeOnSlide nodeId="ID_75932167"/>
+                <NodeOnSlide nodeId="ID_322120862"/>
+                <NodeOnSlide nodeId="ID_203634077"/>
+                <NodeOnSlide nodeId="ID_961795480"/>
+                <NodeOnSlide nodeId="ID_1877665411"/>
+                <NodeOnSlide nodeId="ID_159665513"/>
+                <NodeOnSlide nodeId="ID_285063899"/>
+                <NodeOnSlide nodeId="ID_1313897915"/>
+                <NodeOnSlide nodeId="ID_372258989"/>
+                <NodeOnSlide nodeId="ID_782120114"/>
+                <NodeOnSlide nodeId="ID_743191713"/>
+                <NodeOnSlide nodeId="ID_455179746"/>
+            </NodesOnSlide>
+        </slide>
+        <slide NAME="Approaches - Deeper Properties" showsOnlySpecificNodes="true" changesZoom="true" zoom="1.5">
+            <NodesOnSlide>
+                <NodeOnSlide nodeId="ID_399356747"/>
+                <NodeOnSlide nodeId="ID_1592550823"/>
+                <NodeOnSlide nodeId="ID_234496501"/>
+                <NodeOnSlide nodeId="ID_821340071"/>
+                <NodeOnSlide nodeId="ID_845370179"/>
+                <NodeOnSlide nodeId="ID_591694806"/>
+                <NodeOnSlide nodeId="ID_1963685237"/>
+                <NodeOnSlide nodeId="ID_1200801120"/>
+                <NodeOnSlide nodeId="ID_1639054956"/>
+                <NodeOnSlide nodeId="ID_1319901838"/>
+                <NodeOnSlide nodeId="ID_468742055"/>
+                <NodeOnSlide nodeId="ID_802946528"/>
+                <NodeOnSlide nodeId="ID_97812505"/>
+                <NodeOnSlide nodeId="ID_1745884650"/>
+                <NodeOnSlide nodeId="ID_1768248905"/>
+                <NodeOnSlide nodeId="ID_510450111"/>
+                <NodeOnSlide nodeId="ID_1319174309"/>
+                <NodeOnSlide nodeId="ID_608255091"/>
+                <NodeOnSlide nodeId="ID_1853616542"/>
+                <NodeOnSlide nodeId="ID_1873955812"/>
+                <NodeOnSlide nodeId="ID_891488062"/>
+                <NodeOnSlide nodeId="ID_1730136770"/>
+                <NodeOnSlide nodeId="ID_1935633763"/>
+                <NodeOnSlide nodeId="ID_75932167"/>
+                <NodeOnSlide nodeId="ID_322120862"/>
+                <NodeOnSlide nodeId="ID_203634077"/>
+                <NodeOnSlide nodeId="ID_961795480"/>
+                <NodeOnSlide nodeId="ID_1877665411"/>
+                <NodeOnSlide nodeId="ID_159665513"/>
+                <NodeOnSlide nodeId="ID_285063899"/>
+                <NodeOnSlide nodeId="ID_1313897915"/>
+                <NodeOnSlide nodeId="ID_372258989"/>
+                <NodeOnSlide nodeId="ID_782120114"/>
+                <NodeOnSlide nodeId="ID_743191713"/>
+                <NodeOnSlide nodeId="ID_455179746"/>
+                <NodeOnSlide nodeId="ID_1037446674"/>
+                <NodeOnSlide nodeId="ID_1407391965"/>
+            </NodesOnSlide>
+        </slide>
+        <slide NAME="Approaches - Structural Measures" showsOnlySpecificNodes="true" changesZoom="true" zoom="1.5">
+            <NodesOnSlide>
+                <NodeOnSlide nodeId="ID_399356747"/>
+                <NodeOnSlide nodeId="ID_1592550823"/>
+                <NodeOnSlide nodeId="ID_234496501"/>
+                <NodeOnSlide nodeId="ID_821340071"/>
+                <NodeOnSlide nodeId="ID_845370179"/>
+                <NodeOnSlide nodeId="ID_591694806"/>
+                <NodeOnSlide nodeId="ID_1963685237"/>
+                <NodeOnSlide nodeId="ID_1200801120"/>
+                <NodeOnSlide nodeId="ID_1639054956"/>
+                <NodeOnSlide nodeId="ID_1319901838"/>
+                <NodeOnSlide nodeId="ID_468742055"/>
+                <NodeOnSlide nodeId="ID_802946528"/>
+                <NodeOnSlide nodeId="ID_97812505"/>
+                <NodeOnSlide nodeId="ID_1745884650"/>
+                <NodeOnSlide nodeId="ID_1768248905"/>
+                <NodeOnSlide nodeId="ID_510450111"/>
+                <NodeOnSlide nodeId="ID_1319174309"/>
+                <NodeOnSlide nodeId="ID_608255091"/>
+                <NodeOnSlide nodeId="ID_1853616542"/>
+                <NodeOnSlide nodeId="ID_1873955812"/>
+                <NodeOnSlide nodeId="ID_891488062"/>
+                <NodeOnSlide nodeId="ID_1730136770"/>
+                <NodeOnSlide nodeId="ID_1935633763"/>
+                <NodeOnSlide nodeId="ID_75932167"/>
+                <NodeOnSlide nodeId="ID_322120862"/>
+                <NodeOnSlide nodeId="ID_203634077"/>
+                <NodeOnSlide nodeId="ID_961795480"/>
+                <NodeOnSlide nodeId="ID_1877665411"/>
+                <NodeOnSlide nodeId="ID_159665513"/>
+                <NodeOnSlide nodeId="ID_285063899"/>
+                <NodeOnSlide nodeId="ID_1313897915"/>
+                <NodeOnSlide nodeId="ID_372258989"/>
+                <NodeOnSlide nodeId="ID_782120114"/>
+                <NodeOnSlide nodeId="ID_743191713"/>
+                <NodeOnSlide nodeId="ID_455179746"/>
+                <NodeOnSlide nodeId="ID_1037446674"/>
+                <NodeOnSlide nodeId="ID_1407391965"/>
+                <NodeOnSlide nodeId="ID_275359991"/>
+            </NodesOnSlide>
+        </slide>
+        <slide NAME="Approaches - Structural Visualisation" showsOnlySpecificNodes="true" changesZoom="true" zoom="1.5">
+            <NodesOnSlide>
+                <NodeOnSlide nodeId="ID_399356747"/>
+                <NodeOnSlide nodeId="ID_1592550823"/>
+                <NodeOnSlide nodeId="ID_234496501"/>
+                <NodeOnSlide nodeId="ID_821340071"/>
+                <NodeOnSlide nodeId="ID_845370179"/>
+                <NodeOnSlide nodeId="ID_591694806"/>
+                <NodeOnSlide nodeId="ID_1963685237"/>
+                <NodeOnSlide nodeId="ID_1200801120"/>
+                <NodeOnSlide nodeId="ID_1639054956"/>
+                <NodeOnSlide nodeId="ID_1319901838"/>
+                <NodeOnSlide nodeId="ID_468742055"/>
+                <NodeOnSlide nodeId="ID_802946528"/>
+                <NodeOnSlide nodeId="ID_97812505"/>
+                <NodeOnSlide nodeId="ID_1745884650"/>
+                <NodeOnSlide nodeId="ID_1768248905"/>
+                <NodeOnSlide nodeId="ID_510450111"/>
+                <NodeOnSlide nodeId="ID_1319174309"/>
+                <NodeOnSlide nodeId="ID_608255091"/>
+                <NodeOnSlide nodeId="ID_1853616542"/>
+                <NodeOnSlide nodeId="ID_1873955812"/>
+                <NodeOnSlide nodeId="ID_891488062"/>
+                <NodeOnSlide nodeId="ID_1730136770"/>
+                <NodeOnSlide nodeId="ID_1935633763"/>
+                <NodeOnSlide nodeId="ID_75932167"/>
+                <NodeOnSlide nodeId="ID_322120862"/>
+                <NodeOnSlide nodeId="ID_203634077"/>
+                <NodeOnSlide nodeId="ID_961795480"/>
+                <NodeOnSlide nodeId="ID_1877665411"/>
+                <NodeOnSlide nodeId="ID_159665513"/>
+                <NodeOnSlide nodeId="ID_285063899"/>
+                <NodeOnSlide nodeId="ID_1313897915"/>
+                <NodeOnSlide nodeId="ID_372258989"/>
+                <NodeOnSlide nodeId="ID_782120114"/>
+                <NodeOnSlide nodeId="ID_743191713"/>
+                <NodeOnSlide nodeId="ID_455179746"/>
+                <NodeOnSlide nodeId="ID_1037446674"/>
+                <NodeOnSlide nodeId="ID_1407391965"/>
+                <NodeOnSlide nodeId="ID_275359991"/>
+                <NodeOnSlide nodeId="ID_387491551"/>
+            </NodesOnSlide>
+        </slide>
+        <slide NAME="Approaches - Elaborative Refactoring" showsOnlySpecificNodes="true" changesZoom="true" zoom="1.5">
+            <NodesOnSlide>
+                <NodeOnSlide nodeId="ID_399356747"/>
+                <NodeOnSlide nodeId="ID_1592550823"/>
+                <NodeOnSlide nodeId="ID_234496501"/>
+                <NodeOnSlide nodeId="ID_821340071"/>
+                <NodeOnSlide nodeId="ID_845370179"/>
+                <NodeOnSlide nodeId="ID_591694806"/>
+                <NodeOnSlide nodeId="ID_1963685237"/>
+                <NodeOnSlide nodeId="ID_1200801120"/>
+                <NodeOnSlide nodeId="ID_1639054956"/>
+                <NodeOnSlide nodeId="ID_1319901838"/>
+                <NodeOnSlide nodeId="ID_468742055"/>
+                <NodeOnSlide nodeId="ID_802946528"/>
+                <NodeOnSlide nodeId="ID_97812505"/>
+                <NodeOnSlide nodeId="ID_1745884650"/>
+                <NodeOnSlide nodeId="ID_1768248905"/>
+                <NodeOnSlide nodeId="ID_510450111"/>
+                <NodeOnSlide nodeId="ID_1319174309"/>
+                <NodeOnSlide nodeId="ID_608255091"/>
+                <NodeOnSlide nodeId="ID_1853616542"/>
+                <NodeOnSlide nodeId="ID_1873955812"/>
+                <NodeOnSlide nodeId="ID_891488062"/>
+                <NodeOnSlide nodeId="ID_1730136770"/>
+                <NodeOnSlide nodeId="ID_1935633763"/>
+                <NodeOnSlide nodeId="ID_75932167"/>
+                <NodeOnSlide nodeId="ID_322120862"/>
+                <NodeOnSlide nodeId="ID_203634077"/>
+                <NodeOnSlide nodeId="ID_961795480"/>
+                <NodeOnSlide nodeId="ID_1877665411"/>
+                <NodeOnSlide nodeId="ID_159665513"/>
+                <NodeOnSlide nodeId="ID_285063899"/>
+                <NodeOnSlide nodeId="ID_1313897915"/>
+                <NodeOnSlide nodeId="ID_372258989"/>
+                <NodeOnSlide nodeId="ID_782120114"/>
+                <NodeOnSlide nodeId="ID_743191713"/>
+                <NodeOnSlide nodeId="ID_455179746"/>
+                <NodeOnSlide nodeId="ID_1037446674"/>
+                <NodeOnSlide nodeId="ID_1407391965"/>
+                <NodeOnSlide nodeId="ID_275359991"/>
+                <NodeOnSlide nodeId="ID_387491551"/>
+                <NodeOnSlide nodeId="ID_993404248"/>
+                <NodeOnSlide nodeId="ID_1335704165"/>
+                <NodeOnSlide nodeId="ID_1254197391"/>
+            </NodesOnSlide>
+        </slide>
     </presentation>
-    <presentation NAME="Presentation 1"/>
 </hook>
 <node TEXT="Buildings" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="left" ID="ID_1592550823" CREATED="1628507820304" MODIFIED="1628538743274" TEXT_ALIGN="CENTER">
 <edge COLOR="#ff0000"/>
 <node TEXT="Knowledge" ID="ID_234496501" CREATED="1628513380124" MODIFIED="1628518917106" HGAP_QUANTITY="32.74999944120647 pt" VSHIFT_QUANTITY="-168.74999497085827 pt">
 <hook NAME="FreeNode"/>
-<node TEXT="Expertise" ID="ID_821340071" CREATED="1628518455001" MODIFIED="1628520077257" HGAP_QUANTITY="79.99999803304678 pt" VSHIFT_QUANTITY="-40.49999879300598 pt">
+<node TEXT="Expertise" FOLDED="true" ID="ID_821340071" CREATED="1628518455001" MODIFIED="1628520077257" HGAP_QUANTITY="79.99999803304678 pt" VSHIFT_QUANTITY="-40.49999879300598 pt">
 <arrowlink SHAPE="EDGE_LIKE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_591694806" STARTINCLINATION="108;0;" ENDINCLINATION="108;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <hook NAME="FreeNode"/>
 <node TEXT="Rate of Change" LOCALIZED_STYLE_REF="defaultstyle.attributes" ID="ID_1699286938" CREATED="1628519353210" MODIFIED="1628520071152" HGAP_QUANTITY="-48.99999812245376 pt" VSHIFT_QUANTITY="-77.24999769777067 pt" BACKGROUND_COLOR="#fffbbe" STYLE="rectangle" BORDER_WIDTH="0.0 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#ff9900">
@@ -651,9 +1314,9 @@
 <node TEXT="Centres" ID="ID_1518334938" CREATED="1628513650979" MODIFIED="1628541149542" HGAP_QUANTITY="89.74999774247415 pt" VSHIFT_QUANTITY="29.2499991282821 pt">
 <hook NAME="FreeNode"/>
 </node>
-<node TEXT="Structure-Preserving&#xa;Transformations" ID="ID_97812505" CREATED="1628520967081" MODIFIED="1628541108134" HGAP_QUANTITY="111.49999709427365 pt" VSHIFT_QUANTITY="62.24999814480549 pt">
+<node TEXT="Structure-Preserving&#xa;Transformations" ID="ID_97812505" CREATED="1628520967081" MODIFIED="1628590318577" HGAP_QUANTITY="111.49999709427365 pt" VSHIFT_QUANTITY="62.24999814480549 pt">
 <icon BUILTIN="bookmark"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="2 7" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_75932167" STARTINCLINATION="-217;-49;" ENDINCLINATION="-87;-17;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="2 7" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_75932167" STARTINCLINATION="-44;379;" ENDINCLINATION="-163;190;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <hook NAME="FreeNode"/>
 </node>
 </node>
@@ -664,7 +1327,7 @@
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="2 7" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1088143721" STARTINCLINATION="-51;-31;" ENDINCLINATION="-110;85;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 <node TEXT="Development" ID="ID_1768248905" CREATED="1628513454025" MODIFIED="1628513466652">
-<node TEXT="Adaptive" FOLDED="true" ID="ID_510450111" CREATED="1628513476940" MODIFIED="1628520995972">
+<node TEXT="Adaptive" ID="ID_510450111" CREATED="1628513476940" MODIFIED="1628520995972">
 <arrowlink SHAPE="EDGE_LIKE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_97812505" STARTINCLINATION="182;0;" ENDINCLINATION="182;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <node TEXT="Lifetime" ID="ID_1861960950" CREATED="1628520813368" MODIFIED="1628520839041">
 <node TEXT="Construction" ID="ID_949963161" CREATED="1628513480729" MODIFIED="1628513484203"/>
@@ -678,81 +1341,90 @@
 </node>
 </node>
 </node>
-<node TEXT="Software" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="true" POSITION="right" ID="ID_1319174309" CREATED="1628507827776" MODIFIED="1628523489120" TEXT_ALIGN="CENTER" VGAP_QUANTITY="0.0 pt">
+<node TEXT="Software" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1319174309" CREATED="1628507827776" MODIFIED="1628523489120" TEXT_ALIGN="CENTER" VGAP_QUANTITY="0.0 pt">
 <edge COLOR="#0000ff"/>
 <node TEXT="Understanding" ID="ID_203634077" CREATED="1628521119007" MODIFIED="1628523177697" HGAP_QUANTITY="9.500000134110447 pt" VSHIFT_QUANTITY="38.99999883770946 pt">
-<node TEXT="Geometry?" ID="ID_961795480" CREATED="1628521725038" MODIFIED="1628521734823">
+<node TEXT="Geometry?" ID="ID_961795480" CREATED="1628521725038" MODIFIED="1628589767616" TEXT_ALIGN="LEFT">
 <icon BUILTIN="idea"/>
-<node TEXT="What&#xa;input aspects?" ID="ID_1877665411" CREATED="1628522714305" MODIFIED="1628522727304">
+<node TEXT="What&#xa;input aspects?" ID="ID_1877665411" CREATED="1628522714305" MODIFIED="1628589767616" TEXT_ALIGN="LEFT">
 <icon BUILTIN="help"/>
-<node TEXT="Source code" ID="ID_389095458" CREATED="1628522728712" MODIFIED="1628522733546">
-<node TEXT="Current text" ID="ID_1095981116" CREATED="1628522874899" MODIFIED="1628522877661"/>
-<node TEXT="Historical change&#xa;or movement" ID="ID_1340612436" CREATED="1628522878856" MODIFIED="1628522891009"/>
+<node TEXT="Source code" ID="ID_389095458" CREATED="1628522728712" MODIFIED="1628589767618" TEXT_ALIGN="LEFT">
+<node TEXT="Current text" ID="ID_1095981116" CREATED="1628522874899" MODIFIED="1628589767618" TEXT_ALIGN="LEFT"/>
+<node TEXT="Historical change&#xa;or movement" ID="ID_1340612436" CREATED="1628522878856" MODIFIED="1628589767618" TEXT_ALIGN="LEFT"/>
 </node>
-<node TEXT="Module structure" ID="ID_1728526608" CREATED="1628522735962" MODIFIED="1628522739067"/>
-<node TEXT="Deployment structure" ID="ID_442218298" CREATED="1628522740722" MODIFIED="1628522744562"/>
-<node TEXT="Control flows" ID="ID_147851935" CREATED="1628522745657" MODIFIED="1628522753642"/>
-<node TEXT="Data flows" ID="ID_1244284593" CREATED="1628522759674" MODIFIED="1628522763577"/>
-<node TEXT="Runtime communication" ID="ID_1265623012" CREATED="1628522754824" MODIFIED="1628522758610"/>
+<node TEXT="Module structure" ID="ID_1728526608" CREATED="1628522735962" MODIFIED="1628589767618" TEXT_ALIGN="LEFT"/>
+<node TEXT="Deployment structure" ID="ID_442218298" CREATED="1628522740722" MODIFIED="1628589767619" TEXT_ALIGN="LEFT"/>
+<node TEXT="Control flows" ID="ID_147851935" CREATED="1628522745657" MODIFIED="1628589767619" TEXT_ALIGN="LEFT"/>
+<node TEXT="Data flows" ID="ID_1244284593" CREATED="1628522759674" MODIFIED="1628589767619" TEXT_ALIGN="LEFT"/>
+<node TEXT="Runtime communication" ID="ID_1265623012" CREATED="1628522754824" MODIFIED="1628589767619" TEXT_ALIGN="LEFT"/>
 </node>
-<node TEXT="What&#xa;input features?" ID="ID_285063899" CREATED="1628522691624" MODIFIED="1628522707027">
-<icon BUILTIN="help"/>
-<node TEXT="Lines of &quot;Code&quot;" ID="ID_1576168059" CREATED="1628523002840" MODIFIED="1628523006753"/>
-<node TEXT="Interface parameter&#xa;type structure" ID="ID_1179105963" CREATED="1628523007495" MODIFIED="1628523028434"/>
-</node>
-<node TEXT="What kinds&#xa;of &quot;spaces&quot;?" ID="ID_159665513" CREATED="1628522451489" MODIFIED="1628522502402">
+<node TEXT="What kinds&#xa;of &quot;spaces&quot;?" ID="ID_159665513" CREATED="1628522451489" MODIFIED="1628589767621" TEXT_ALIGN="LEFT">
 <icon BUILTIN="help"/>
 </node>
-<node TEXT="Abstraction&#xa;for&#xa;Recognition" ID="ID_1313897915" CREATED="1628521772876" MODIFIED="1628521992829">
-<node TEXT="of" ID="ID_1238369242" CREATED="1628521954019" MODIFIED="1628521955485">
-<node TEXT="extant structure" ID="ID_240495404" CREATED="1628521958043" MODIFIED="1628521967133"/>
-<node TEXT="elaboration steps" ID="ID_1037138660" CREATED="1628521968300" MODIFIED="1628523082325">
+<node TEXT="What&#xa;input features?" ID="ID_285063899" CREATED="1628522691624" MODIFIED="1628589767619" TEXT_ALIGN="LEFT">
+<icon BUILTIN="help"/>
+<node TEXT="Lines of &quot;Code&quot;" ID="ID_1576168059" CREATED="1628523002840" MODIFIED="1628589767620" TEXT_ALIGN="LEFT"/>
+<node TEXT="Interface parameter&#xa;type structure" ID="ID_1179105963" CREATED="1628523007495" MODIFIED="1628589767620" TEXT_ALIGN="LEFT"/>
+<node TEXT="???" ID="ID_189890921" CREATED="1628590426817" MODIFIED="1628590428517"/>
+</node>
+<node TEXT="Abstraction&#xa;for Recognition" ID="ID_1313897915" CREATED="1628521772876" MODIFIED="1628589767621" TEXT_ALIGN="LEFT">
+<node TEXT="of" ID="ID_1238369242" CREATED="1628521954019" MODIFIED="1628589767622" TEXT_ALIGN="LEFT">
+<node TEXT="existing structure" ID="ID_240495404" CREATED="1628521958043" MODIFIED="1628589767622" TEXT_ALIGN="LEFT"/>
+<node TEXT="elaboration steps" ID="ID_1037138660" CREATED="1628521968300" MODIFIED="1628589767622" TEXT_ALIGN="LEFT">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="2 7" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_75932167" STARTINCLINATION="293;0;" ENDINCLINATION="293;0;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 </node>
 </node>
-<node TEXT="by" ID="ID_1058600913" CREATED="1628521798093" MODIFIED="1628521799357">
-<node TEXT="Human Intuition" ID="ID_604498080" CREATED="1628521800974" MODIFIED="1628521818149"/>
-<node TEXT="Algorithms" ID="ID_1295129405" CREATED="1628521809646" MODIFIED="1628521813575">
-<node TEXT="What features,&#xa;textures, etc.?" ID="ID_1590889307" CREATED="1628522478688" MODIFIED="1628522505771">
+<node TEXT="by" ID="ID_1058600913" CREATED="1628521798093" MODIFIED="1628589767622" TEXT_ALIGN="LEFT">
+<node TEXT="Human Intuition" ID="ID_604498080" CREATED="1628521800974" MODIFIED="1628589767622" TEXT_ALIGN="LEFT"/>
+<node TEXT="Algorithms" ID="ID_1295129405" CREATED="1628521809646" MODIFIED="1628589767622" TEXT_ALIGN="LEFT">
+<node TEXT="What features,&#xa;textures, etc.?" ID="ID_1590889307" CREATED="1628522478688" MODIFIED="1628589767622" TEXT_ALIGN="LEFT">
 <icon BUILTIN="help"/>
 </node>
 </node>
 </node>
-<node TEXT="for" ID="ID_1410989839" CREATED="1628521820716" MODIFIED="1628521822213">
-<node TEXT="Guiding Development" ID="ID_782120114" CREATED="1628521823517" MODIFIED="1628521858680"/>
-<node TEXT="Discovering Patterns&#xa;(wisdom elicitation)" ID="ID_372258989" CREATED="1628521859236" MODIFIED="1628521926766"/>
+<node TEXT="for" ID="ID_1410989839" CREATED="1628521820716" MODIFIED="1628589767623" TEXT_ALIGN="LEFT">
+<node TEXT="Guiding Development" ID="ID_782120114" CREATED="1628521823517" MODIFIED="1628589767623" TEXT_ALIGN="LEFT"/>
+<node TEXT="Discovering Patterns&#xa;(wisdom elicitation)" ID="ID_372258989" CREATED="1628521859236" MODIFIED="1628589767623" TEXT_ALIGN="LEFT"/>
 </node>
 </node>
 </node>
-<node TEXT="Patterns" ID="ID_1730136770" CREATED="1628521519989" MODIFIED="1628521524464">
-<node TEXT="GoF" ID="ID_1408157203" CREATED="1628521528053" MODIFIED="1628521531577"/>
-<node TEXT="PLoPD" ID="ID_1098625639" CREATED="1628521532061" MODIFIED="1628521704041">
+</node>
+<node TEXT="Development" ID="ID_1935633763" CREATED="1628521123367" MODIFIED="1628589730426" HGAP_QUANTITY="19.249999843537815 pt" VSHIFT_QUANTITY="-8.999999731779106 pt" TEXT_ALIGN="LEFT">
+<node TEXT="Patterns" ID="ID_1730136770" CREATED="1628521519989" MODIFIED="1628589737933" TEXT_ALIGN="LEFT">
+<node TEXT="GoF" ID="ID_1408157203" CREATED="1628521528053" MODIFIED="1628589737933" TEXT_ALIGN="LEFT"/>
+<node TEXT="PLoPD" ID="ID_1098625639" CREATED="1628521532061" MODIFIED="1628589737934" TEXT_ALIGN="LEFT">
 <icon BUILTIN="bookmark"/>
 </node>
-<node TEXT="Patterns of&#xa;Enterprise Application&#xa;Archictecture" ID="ID_1489438729" CREATED="1628524031083" MODIFIED="1628524070162">
+<node TEXT="Patterns of&#xa;Enterprise Application&#xa;Archictecture" ID="ID_1489438729" CREATED="1628524031083" MODIFIED="1628589737934" TEXT_ALIGN="LEFT">
 <icon BUILTIN="bookmark"/>
 </node>
 </node>
-</node>
-<node TEXT="Development" ID="ID_1935633763" CREATED="1628521123367" MODIFIED="1628523486960" HGAP_QUANTITY="19.249999843537815 pt" VSHIFT_QUANTITY="-8.999999731779106 pt">
-<node TEXT="Elaborative&#xa;Refactoring?&#xa;(&quot;Introduce [Pattern]&quot;)" ID="ID_75932167" CREATED="1628521414653" MODIFIED="1628523474139">
+<node TEXT="Elaborative&#xa;Refactoring?&#xa;(&quot;Introduce [Pattern]&quot;)" ID="ID_75932167" CREATED="1628521414653" MODIFIED="1628589730426" TEXT_ALIGN="LEFT">
 <icon BUILTIN="idea"/>
-<node TEXT="&quot;Introduce API&quot;?" ID="ID_1589344086" CREATED="1628523458454" MODIFIED="1628523474139" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="26.99999919533732 pt"/>
+<node TEXT="E.g., &quot;Introduce API&quot;" ID="ID_1589344086" CREATED="1628523458454" MODIFIED="1628590102610" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="26.99999919533732 pt" TEXT_ALIGN="LEFT">
+<icon BUILTIN="help"/>
 </node>
-</node>
-<node TEXT="Approaches" ID="ID_743191713" CREATED="1628523238024" MODIFIED="1628523489119" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-13.49999959766866 pt">
-<node TEXT="Find analogues of&#xa;the 15 Properties&#xa;(or deeper ones)" ID="ID_455179746" CREATED="1628523254772" MODIFIED="1628523314432"/>
-<node TEXT="Find existing research&#xa;on structural measures" ID="ID_275359991" CREATED="1628523266678" MODIFIED="1628523308463"/>
-<node TEXT="Find existing research&#xa;on structural visualisation" ID="ID_387491551" CREATED="1628523288127" MODIFIED="1628523305135"/>
-<node TEXT="Find existing examples&#xa;of &quot;elaborative refactoring&quot;" ID="ID_1335704165" CREATED="1628523339790" MODIFIED="1628523385761">
-<node TEXT="Invent more, by intuition" ID="ID_993404248" CREATED="1628523387791" MODIFIED="1628523397529"/>
-<node TEXT="Infer structural measures&#xa;from what aspects&#xa;these &quot;refactorings&quot; change" ID="ID_1254197391" CREATED="1628523398303" MODIFIED="1628523440287"/>
+<node TEXT="Tending towards&#xa;maintainable" ID="ID_322120862" CREATED="1628590058777" MODIFIED="1628590076034" TEXT_ALIGN="LEFT">
+<icon BUILTIN="help"/>
 </node>
 </node>
 </node>
-<node TEXT="Life-Like" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_608255091" CREATED="1628507882706" MODIFIED="1628539560060" VGAP_QUANTITY="0.0 pt" HGAP_QUANTITY="-5.249999843537816 pt" VSHIFT_QUANTITY="85.49999745190152 pt" TEXT_ALIGN="CENTER">
-<hook NAME="FreeNode"/>
+<node TEXT="Approaches" ID="ID_743191713" CREATED="1628523238024" MODIFIED="1628589702533" HGAP_QUANTITY="14.749999977648258 pt" VSHIFT_QUANTITY="-13.49999959766866 pt" TEXT_ALIGN="LEFT">
+<node TEXT="Find analogues of&#xa;the 15 Properties" ID="ID_455179746" CREATED="1628523254772" MODIFIED="1628589702533" TEXT_ALIGN="LEFT"/>
+<node TEXT="Find deeper properties" ID="ID_1407391965" CREATED="1628589568347" MODIFIED="1628589702535" TEXT_ALIGN="LEFT">
+<node TEXT="Find analogues of those" ID="ID_1037446674" CREATED="1628589576720" MODIFIED="1628589702535" TEXT_ALIGN="LEFT"/>
+</node>
+<node TEXT="Find existing research&#xa;on structural measures" ID="ID_275359991" CREATED="1628523266678" MODIFIED="1628589702535" TEXT_ALIGN="LEFT"/>
+<node TEXT="Find existing research&#xa;on structure visualisation" ID="ID_387491551" CREATED="1628523288127" MODIFIED="1628591131331" TEXT_ALIGN="LEFT"/>
+<node TEXT="Find existing examples&#xa;of &quot;elaborative refactoring&quot;" ID="ID_1335704165" CREATED="1628523339790" MODIFIED="1628589702537" TEXT_ALIGN="LEFT">
+<node TEXT="Invent more, by intuition" ID="ID_993404248" CREATED="1628523387791" MODIFIED="1628589702537" TEXT_ALIGN="LEFT"/>
+<node TEXT="Infer structural measures&#xa;from what aspects&#xa;these &quot;refactorings&quot; change" ID="ID_1254197391" CREATED="1628523398303" MODIFIED="1628589702537" TEXT_ALIGN="LEFT"/>
+</node>
+</node>
+</node>
+<node TEXT="Life-Like" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="true" POSITION="right" ID="ID_608255091" CREATED="1628507882706" MODIFIED="1628539560060" VGAP_QUANTITY="0.0 pt" HGAP_QUANTITY="-5.249999843537816 pt" VSHIFT_QUANTITY="85.49999745190152 pt" TEXT_ALIGN="CENTER">
 <font BOLD="false"/>
+<hook NAME="FreeNode"/>
 <node TEXT="well-disposed to&#xa;adaptation&#xa;and maintenance" LOCALIZED_STYLE_REF="defaultstyle.details" ID="ID_1853616542" CREATED="1628507946931" MODIFIED="1628539495324" HGAP_QUANTITY="-102.9999965131284 pt" VSHIFT_QUANTITY="32.24999903887513 pt" STYLE="rectangle" TEXT_ALIGN="CENTER">
 <hook NAME="FreeNode"/>
 </node>
